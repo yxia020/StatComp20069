@@ -4,7 +4,7 @@ Title: Example functions for 'Statistical Computing' course
 Version: 1.0
 Date: 2020-12-09
 Author: Xia Yingying  
-Maintainer: Xia Yingying <yxia020@mail.ustc.edu.cn>
+Maintainer: Xia Yingying < yxia020@mail.ustc.edu.cn>
 Description: a simple R package developed to display two functions from my research project and all functions of my homework for the 'Statistical Computing' course.  
 License: GPL (>= 2)
 Imports: Rcpp (>= 0.12.16), microbenchmark, knitr, rmarkdown, StatComp, MASS, Ball, DAAG, RANN, boot, bootstrap, energy
